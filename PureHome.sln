@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureHome", "PureHome.csproj", "{35578E2D-F9E6-4563-9E47-5D3CC58774C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35578E2D-F9E6-4563-9E47-5D3CC58774C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35578E2D-F9E6-4563-9E47-5D3CC58774C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35578E2D-F9E6-4563-9E47-5D3CC58774C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35578E2D-F9E6-4563-9E47-5D3CC58774C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB0EE1DA-3EA7-4724-B97D-24C168BA7FDE}
+	EndGlobalSection
+EndGlobal
